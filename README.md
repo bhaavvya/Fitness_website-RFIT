@@ -1,3 +1,3 @@
 # Fitness_website-RFIT
 The link to the website is -> https://rfit.000webhostapp.com/
-
+It is a fitness website which tracks meal,weight,exercise and number of glass of water consumed.It also have feedback and ask query section.For ask query section the admin will get the notification and will reply to the query.Using our website you can register which will ask your current weight,age and height and with that your BMI will be calculated and set your goal to increase weight or loose weight or will also inform you if you have balanced weight.After login to the website you can save the information of your meal intake for the report on the basis of your meal intake information.
